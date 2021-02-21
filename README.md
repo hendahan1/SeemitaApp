@@ -3,7 +3,7 @@
 </p> 
 
 #   Seemita
-##   A new kind of women safety app, for both Android and iOS.
+##  A new kind of women safety app, for both Android and iOS.
 
 <br/>
 
