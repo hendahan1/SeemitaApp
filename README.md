@@ -2,8 +2,8 @@
   <img src="icon-README.png" width="15%" height="15%" align="left" hspace="1" vspace="1">
 </p> 
 
-# Seemita
-## A new kind of women safety app, for both Android and iOS.
+#   Seemita
+##   A new kind of women safety app, for both Android and iOS.
 
 <br/>
 
