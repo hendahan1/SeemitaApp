@@ -1,5 +1,11 @@
+<p>
+  <img src="icon-README.png" width="15%" height="15%" align="left" hspace="1" vspace="1">
+</p> 
+
 # Seemita
 ## A new kind of women safety app, for both Android and iOS.
+
+<br/>
 
 # Main Idea
 Seemita will provide the user confidence by detecting a deviation from the user's designated route. Then, unless the user assured she's okay, a message would be sent automatically to chosen contacts. This message includes a custom text and the user's location.
